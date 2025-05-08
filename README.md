@@ -13,16 +13,15 @@ YData Profiling is a powerful tool for quick and interactive EDA. With just a fe
 - Correlation heatmaps
 - Duplicates detection
 - Data quality warnings
+### References
+- YData Profiling GitHub
+- YData Documentation
+- Pandas Documentation
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/HiraNawaz2415/eda-ydata-profiling.git
 cd eda-ydata-profiling
-## 📖References
-YData Profiling GitHub
 
-YData Documentation
-
-Pandas Documentation
 
 
